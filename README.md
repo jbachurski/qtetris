@@ -22,11 +22,12 @@ The usage of Cython for running the game is somewhat broken, but after installin
 
 By default, the AI is enabled and it is in fast delay mode.
 
-
 ## Original description
 
 A tetris game. Also includes a self-learning AI, based on a Evolving Neural Network.
 
 Requires pygame for graphics to function.
 
-~~Note: If you do not have Python 3.5 and 64-bit Windows, replace the .pyd files with the respective files of name ...py.py from their folders. That is gamecls-=-.pyd -> gameclspy.py, with its name changed to gamecls.py, for example.~~
+*Outdated:* ~~Note: If you do not have Python 3.5 and 64-bit Windows, replace the .pyd files with the respective files of name ...py.py from their folders. That is gamecls-=-.pyd -> gameclspy.py, with its name changed to gamecls.py, for example.~~
+
+![image](https://user-images.githubusercontent.com/25066148/189497691-5ff9bfba-5d8a-41fa-b5e7-437941128f34.png)
